@@ -10,11 +10,13 @@ To spin the whole project on your local machine, you'll need to import project i
 
 Make sure to import `smart_watering.sql` into previously created `smart_watering` table.
 
+Login credentials:
+
+- Username: admin
+- Password: 123
+
 Enjoy!
 
-Login credentials:
-  Username: admin
-  Password: 123
 
 
 ## Preview
