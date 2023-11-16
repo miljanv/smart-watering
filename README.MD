@@ -12,6 +12,10 @@ Make sure to import `smart_watering.sql` into previously created `smart_watering
 
 Enjoy!
 
+Login credentials:
+  Username: admin
+  Password: 123
+
 
 ## Preview
 ![img.png](img.png)
